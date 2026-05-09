@@ -1,8 +1,8 @@
 // ✅ Product Data
 const products = [
   {
-    name: "Probiotic Toothpaste",
-    price: 295,
+    name: "Niacinamide face wash ",
+    price: 495,
     img: "image/facewash.jpeg"
   },
   {
