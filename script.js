@@ -148,7 +148,7 @@ products.forEach(product => {
 function orderOnWhatsApp(name, price) {
 
   // 👉 Replace with your WhatsApp number
-  const phoneNumber = "97477702653";
+  const phoneNumber = "+9779818084766";
 
   const message =
 `Hello, I want to order:
